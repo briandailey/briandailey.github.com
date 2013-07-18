@@ -1,36 +1,17 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Hi!
+tagline: 
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+<div class="pull-right"><img src="https://si0.twimg.com/profile_images/2504804310/0tp8veb5lge1ze599zso.jpeg" /></div>
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+My name is Brian. I am a web developer. As of 2013, I am busy in Nashville with [Stratasan](http://stratasan.com), a company I co-founded in 2010. I also occasionally do freelance work under the business name [Realm3](http://realm3.com).
 
-## Update Author Attributes
+My current language of choice is Python. You can see some of my projects on [GitHub](http://github.com/briandailey). If you would like to find out more about projects I've worked on in the past, see the [Projects](/pages/projects) page.
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+Occasionally I blog here. My latest ramblings are:
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -38,9 +19,4 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+If you want to get in touch with me, you can reach me at [@byeliad](http://twitter.com/byeliad) on Twitter. You can also find me on Freenode on #pynash, #nashdl, and elsewhere. If you must, you can also connect with me on [LinkedIn](http://www.linkedin.com/in/briandailey).
