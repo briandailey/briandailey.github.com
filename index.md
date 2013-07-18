@@ -11,7 +11,7 @@ My name is Brian. I am a web developer. As of 2013, I am busy in Nashville with 
 
 My current language of choice is Python. You can see some of my projects on [GitHub](http://github.com/briandailey). If you would like to find out more about projects I've worked on in the past, see the [Projects](/pages/projects) page.
 
-Occasionally I blog here. My latest ramblings are:
+Occasionally, I blog here. My latest ramblings are:
 
 <ul class="posts">
   {% for post in site.posts %}
