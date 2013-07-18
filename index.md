@@ -5,11 +5,11 @@ tagline:
 ---
 {% include JB/setup %}
 
-<div class="pull-right"><img src="https://si0.twimg.com/profile_images/2504804310/0tp8veb5lge1ze599zso.jpeg" /></div>
+<div class="pull-right"><img alt="Pete the pug and Brian at the tip of Long Island, Montauk, NY." src="https://si0.twimg.com/profile_images/2504804310/0tp8veb5lge1ze599zso.jpeg" /></div>
 
 My name is Brian. I am a web developer. As of 2013, I am busy in Nashville with [Stratasan](http://stratasan.com), a company I co-founded in 2010. I also occasionally do freelance work under the business name [Realm3](http://realm3.com).
 
-My current language of choice is Python. You can see some of my projects on [GitHub](http://github.com/briandailey). If you would like to find out more about projects I've worked on in the past, see the [Projects](/pages/projects) page.
+My current language of choice is Python. You can see some of my projects on [GitHub](http://github.com/briandailey). If you would like to find out more about projects I've worked on in the past, see the [Projects](/projects.html) page.
 
 Occasionally, I blog here. My latest ramblings are:
 
