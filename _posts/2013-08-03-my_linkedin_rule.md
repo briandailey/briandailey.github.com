@@ -11,4 +11,4 @@ I have a silly rule that I apply to my LinkedIn network. If I haven't met you in
 
 However, I find it interesting that roughly 4 out of 5 of these requests go completely dark when I request coffee or lunch.
 
-If you're just clicking random people to add to your network, what meaning does it have? I genuinely don't understand that.
+If you're just clicking random people to add to your network, what meaning does it have? Might as well open a phone book and start randomly adding names. 500+ is where it's at!
