@@ -7,8 +7,6 @@ tags: [networking, linkedin]
 ---
 {% include JB/setup %}
 
-I have a silly rule that I apply to my LinkedIn network. If I haven't met you in person at least once, I won't add you to my network. If you request to add me and I don't know you, I always ask to grab coffee or lunch. It has been a great way to meet some interesting folks in Nashville.
+I have a silly rule that I apply to my LinkedIn network: If I haven't met you in person at least once, I will request to meet you in person at least once before adding you to my network. To me, this makes the differnce in using LinkedIn as a real connection tool, versus using it as a simple rolodex of people I may or may not know.
 
-However, I find it interesting that roughly 4 out of 5 of these requests go completely dark when I request coffee or lunch.
-
-If you're just clicking random people to add to your network, what meaning does it have? Might as well open a phone book and start randomly adding names. 500+ is where it's at!
+I find it somewhat disappointing that roughly 4 out of 5 of these requests go completely dark when I request coffee or lunch. If you've received a link to this post after adding me on LinkedIn, I encourage you to take me up on my offer and schedule a time for us to grab coffee.
