@@ -207,4 +207,62 @@ aware of when defining your data storage.  Furthermore, Redshift only
 accommodates UTF8 characters up to 3 bytes long. If you're doing a lot of
 internationalization, this is something you very much want to pay attention to.
 
+#### Sort and Distribution Keys
+
+There are two other things you want to familiarize yourself with when creating
+tables on Redshift.
+
+By default, the contents of your table are distributed across your nodes and
+slices in a round-robin fashion. Evenly distributing the data means that the
+slices can all share equal amounts of work. If all of the data was stored in
+one slice, you couldn't take advantage of Redshift's use of parallel queries.
+
+However, you can indicate your own *distribution key*. An ideal candidate is any
+column that you commonly group by (for aggregates) or perform table joins on.
+You still want to keep the data as evenly distributed as possible, however.
+
+An example of this would be a table with an "favorite_color" column. If the
+values are pretty evently distributed, then grouping them together means
+Redshift has to do less work in copying data around inside the cluster to
+perform the aggregate. On the other hand, if 90% of your table data has a
+favorite_color of "red", then the node or slice with the "red" data is going to
+have to do a disproportionate amount of work.
+
+The *sort key* indicates how your data should be sorted on disk. You can
+indicate multiple sort keys for a given table.
+
+Here's the important thing to know:
+
+> “Amazon Redshift stores columnar data in 1 MB disk blocks. The min and max
+> values for each block are stored as part of the metadata.”
+
+This means that if you have a sort key indicated, Redshift can skip over swaths
+of your data to pinpoint exactly where the value you're looking for can be
+found.
+
+Amazon's webinars often use the example of a "last updated timestamp" column to
+demonstrate how this works. If you are most commonly accessing data based on
+that timestamp you can use it as a sort key. When searching for values, it will
+only look at nodes, slices, and blocks that are relevant.
+
+### ALTER
+
+One last thing to know about building tables. If you want to ALTER a column
+after the table has been created, you're [out of
+luck](http://docs.aws.amazon.com/redshift/latest/dg/c_redshift-sql-implementated-differently.html).
+If you want to, for example, change type or length, you'll need to ADD another
+column, copy the data over, and remove the old column.
+
+Additionally, you can only ALTER ADD COLUMN one at a time. So if you need to do
+this multiple times, you're much better off creating a new table and copying
+the data into it. For example:
+
+    COPY (SELECT * FROM old_table) INTO new_table;
+
+### Loading Data
+
+You have two options:
+* S3
+*Dynamo DB
+
 -- sort key
