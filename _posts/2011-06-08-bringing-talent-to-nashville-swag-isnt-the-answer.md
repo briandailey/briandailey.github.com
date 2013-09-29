@@ -5,9 +5,6 @@ description: ""
 category: Rambles 
 tags: [nashville, marketing]
 ---
-{% include JB/setup %}
-
-
 This post is in response to a recent post by Nashville's venerable Dave Delaney (founder of Geek Breakfast, et al). In his post, Dave proposes that Nashville creates a position of "Technology Ambassador" to promote the community we have here in Nashville to a wider audience.
 
 I can only speak from my experience, but when my family relocated from NYC to Nashville in 2009, it wasn't swag-bearing social media experts that convinced me to to do so. In fact, I'm pretty sure if I had been assaulted by an over-eager ambassador at a conference with branded tote-bags, lapel buttons, and t-shirts, I would have written it off as a middle America city that was simply trying much too hard.
