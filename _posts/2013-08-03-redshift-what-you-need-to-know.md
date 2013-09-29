@@ -185,6 +185,8 @@ there are a lot of unsupported PostgreSQL data types. The ones that hurt the
 most for us was SERIAL, since we used that for primary key columns.
 Arrays, JSON, XML - all unsupported.
 
+**Update** As of September 2013 JSON is now supported. Thanks [@rahulpathak](https://twitter.com/rahulpathak/status/384425227934892033).
+
 It's actually easier to list what *is* supported.
 * SMALLINT
 * INTEGER
@@ -204,6 +206,9 @@ only bites you if you store multi-byte data, but it's an important thing to
 aware of when defining your data storage.  Furthermore, Redshift only
 accommodates UTF8 characters up to 3 bytes long. If you're doing a lot of
 internationalization, this is something you very much want to pay attention to.
+
+**Update** UTF8 support can be accomplished through using the ACCEPTINVCHAR option
+when using COPY to load the data. Thanks, [@rahulpathak](https://twitter.com/rahulpathak/status/384425227934892033).
 
 #### Sort and Distribution Keys
 
