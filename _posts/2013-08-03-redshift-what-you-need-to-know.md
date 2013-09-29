@@ -5,8 +5,6 @@ description: ""
 category: 
 tags: [amazon, redshift, sql, database]
 ---
-{% include JB/setup %}
-
 Stratasan, a company I co-founded in 2010, moved from PostgreSQL to Amazon
 Redshift in 2013. Now that we've migrated most of our data to the platform, I
 thought it would be useful to others out there if I summarized some of our
@@ -30,7 +28,7 @@ Redshift is built for analytics. It's a columnar data store, so it's intended
 to return fast results for aggregations (SUM, AVG, COUNT, etc). Single-store
 lookups are, of course, much slower.
 
-### Why I Like Redshift
+### Why Redshift
 
 We checked out Hadoop and Elasticsearch prior to using Redshift. For various
 reasons, neither fit our need very well. We needed a way to handle data in
@@ -261,8 +259,128 @@ the data into it. For example:
 
 ### Loading Data
 
-You have two options:
-* S3
-*Dynamo DB
+So now that we've created out data structure, how do we get data into it? You
+have two choices:
 
--- sort key
+* Amazon S3
+* Amazon DynamoDB
+
+Yes, you *could* simply run a series of INSERT statements, but that is going to
+be painfully slow.
+
+Amazon recommends using the S3 method, which I will describe briefly. I don't
+see the DynamoDB as particularly useful unless you're already using that and
+want to migrate some of your data to Redshift.
+
+To get the data from your local network to S3, I would use
+[s3cmd](http://s3tools.org/s3cmd). It allows you to break the file into
+multiple pieces for upload. Another option is to use a package like
+[boto](https://github.com/boto/boto). Although it requires more work, you can
+stream files concurrently rather than one at at time. As of version 1.1, s3cmd
+does not allow you to load files in paralell.
+
+    s3cmd put /path/to/my/file.sql.gz* s3://my-bucket/
+
+There are a few things to note here. First, if you can zip your files before
+uploading them, that will save you some time and bandwidth. Second, if you
+break them up into multiple chunks, Redshift can load them in parallel from S3.
+Note the asterisk after the file name: this assumes the file is chunked. For
+example:
+
+    file.sql.gz.0001
+    file.sql.gz.0002
+
+To get the files from S3 to Redshift, you will use the
+[COPY command](http://docs.aws.amazon.com/redshift/latest/dg/r_COPY.html).
+
+    COPY my_table (column1, column2) FROM 's3://my-bucket/file.sql.gz' WITH
+    CREDENTIALS '...' GZIP
+
+Note that the s3 path is a prefix, so it will grab all files that begin with
+'file.sql.gz' and load them in parallel.
+
+Of course, you may run into some problems at this point if your data doesn't
+match the structure you're loading it into. In that case, the following tables
+can be checked for details:
+
+    STL_LOAD_ERRORS
+    STL_LOADERROR_DETAIL
+
+It is generally a good idea to run the COPY command with the NOLOAD option
+first, so you can scan the entire file for any issues. It has the advantage of
+running more quickly than an actual load, and you can also bump up the MAXERROR
+to continue finding more problems as you scan the file. Just remember to reset
+MAXERROR when you're done!
+
+### Querying Data
+
+The beauty of Redshift is that if you've ever used PostgreSQL, you already know
+how to query it. The syntax is nearly identical. Remember to use Postgres 8.0.2
+documentation, however, and always keep the [implementation
+differences](http://docs.aws.amazon.com/redshift/latest/dg/c_redshift-sql-implementated-differently.html)
+handy.
+
+### Extracting Data
+
+If you want to dump data from Redshift, you will use the
+[UNLOAD](http://docs.aws.amazon.com/redshift/latest/dg/r_UNLOAD.html) command.
+Note that UNLOAD will dump your query into multiple files with the prefix you
+provide. This will be based on the number of slices in your cluster, so even
+small queries will create multiple files. There is, however, a [way to
+trick](https://forums.aws.amazon.com/message.jspa?messageID=432538)
+UNLOAD into dumping everything into one file by adding an outer LIMIT.
+
+    UNLOAD 'SELECT * FROM (
+            SELECT ...
+            FROM ...
+            WHERE ...
+        ) LIMIT 2147483647'
+        ...
+
+It does, however, affect performance.
+
+### Optimizations
+
+You'll want to read up on the [workload manager](http://docs.aws.amazon.com/redshift/latest/dg/c_workload_mngmt_classification.html) (WLM).
+It allows you to create lanes for parallel queries, which means you can prevent long-running
+queries from hogging resources.
+
+> “By default, a cluster is configured with one queue that can run five
+> queries concurrently. In addition, Amazon Redshift reserves one dedicated
+> Superuser queue on the cluster, which has a concurrency level of one.
+> The Superuser queue is not configurable.”
+
+You can create up to 8 queues, and you can allow up to 15 concurrent queries.
+One strategy is to set the concurrent queries to 1 when you are running a COPY
+statement. That speeds up the load at the cost of making other queries wait.
+You can also assign queries at runtime, or set them up by user.
+
+When you load data, VACUUM is automatically run. However, if you make any non-trivial
+changes to your data (UPDATE, DELETE, or INSERT) you will want to run it again
+with ANALYZE to resort the data.
+
+Other optimizations are highly dependent on the data you're loading. One
+huge advantage of Redshift is that you can try multiple configurations (e.g.,
+few large nodes vs many small notes, 16xXL versus 2x8XL) at a low cost.
+
+### Wrap-up
+
+The advantages of Redshift to any shop wishing to run adhoc queries against large
+sets of data is abundantly clear.
+
+* It looks and smells like PostgreSQL 8.
+* It's much easier to use existing talent than learning to use a new tool like Hadoop.
+  * As others have pointed out, Hadoop is generally overutilized anyway.
+  * Even AirBNB analysts liked it so much they didn't want to go back to PIG and HIVE.
+* It's less expensive than appliances like Vertica.
+* It's pricing scheme is much more clear than competing appliances.
+
+Making the switch from PostgreSQL to Redshift has not only made our adhoc queries faster,
+it's also saved us hosting costs.
+
+If you have any questions about our implementation, I would be happy to talk about it
+further. If you're in the Nashville area, I'm always up for grabbing coffee or lunch. Feel
+free to email me (brian at this domain) or ping me on Twitter at @byeliad.
+
+This blog post is based on my notes from a talk I gave at Coderfaire 2013. Slides are
+[available here](http://dailytechnology.net/talk-coderfaire-redshift-2013/).
