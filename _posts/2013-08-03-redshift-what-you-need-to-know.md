@@ -104,7 +104,7 @@ That took approximately 10 minutes. And on Redshift:
     (1 row)
     Time: 1561.359 ms
 
-1.5 seconds! That's an improvement. Note that I didn't make any adjustements to
+One and a half seconds! That's an improvement. Note that I didn't make any adjustements to
 the data: no indexes, no differences in table structure.
 
 How about some aggregates?
