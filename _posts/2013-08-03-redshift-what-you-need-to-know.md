@@ -207,8 +207,8 @@ aware of when defining your data storage.  Furthermore, Redshift only
 accommodates UTF8 characters up to 3 bytes long. If you're doing a lot of
 internationalization, this is something you very much want to pay attention to.
 
-**Update** UTF8 support can be accomplished through using the ACCEPTINVCHAR option
-when using COPY to load the data. Thanks, [@rahulpathak](https://twitter.com/rahulpathak/status/384425227934892033).
+**Update** As [@rahulpathak](https://twitter.com/rahulpathak/status/384425227934892033) pointed
+out, UTF8 up to four bytes is now supported.
 
 #### Sort and Distribution Keys
 
@@ -389,3 +389,7 @@ free to email me (brian at this domain) or ping me on Twitter at @byeliad.
 
 This blog post is based on my notes from a talk I gave at Coderfaire 2013. Slides are
 [available here](http://dailytechnology.net/talk-coderfaire-redshift-2013/).
+
+### Additional Resources
+
+* [AWS Webcast - Amazon Redshift Best Practices for Data Loading and Query Performance](http://www.slideshare.net/AmazonWebServices/redshift-best-practices-part-1dp2)
