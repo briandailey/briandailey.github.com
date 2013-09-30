@@ -2,7 +2,7 @@
 layout: post
 title: "Amazon Redshift - What You Need To Know"
 description: ""
-category: Development
+category:
 tags: [amazon, redshift, sql, database]
 ---
 Stratasan, a company I co-founded in 2010, moved from PostgreSQL to Amazon
