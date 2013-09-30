@@ -393,3 +393,4 @@ This blog post is based on my notes from a talk I gave at Coderfaire 2013. Slide
 ### Additional Resources
 
 * [AWS Webcast - Amazon Redshift Best Practices for Data Loading and Query Performance](http://www.slideshare.net/AmazonWebServices/redshift-best-practices-part-1dp2)
+* [Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/) from Berkeley, comparing Redshift, Hive, and others.
