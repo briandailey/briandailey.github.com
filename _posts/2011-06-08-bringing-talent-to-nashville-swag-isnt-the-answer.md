@@ -2,7 +2,7 @@
 layout: post
 title: "Bringing Talent To Nashville: Swag Isn't The Answer"
 description: ""
-category: Rambles 
+category: Random 
 tags: [nashville, marketing]
 ---
 This post is in response to a recent post by Nashville's venerable Dave Delaney (founder of Geek Breakfast, et al). In his post, Dave proposes that Nashville creates a position of "Technology Ambassador" to promote the community we have here in Nashville to a wider audience.
