@@ -5,8 +5,6 @@ description: ""
 category: random
 tags: [android, mac, os x]
 ---
-{% include JB/setup %}
-
 If you have recently upgraded to Mac OS X Maverick and you discover that you can no longer detect your Android phone with Android File Transfer, this should fix it for you.
 
 * Open up Settings.
