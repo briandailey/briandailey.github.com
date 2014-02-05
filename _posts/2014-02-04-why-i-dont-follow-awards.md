@@ -12,10 +12,11 @@ they?
 
 I've been preparing my talk on [Systematic Biases and the Software Developer](
 http://pytennessee.tumblr.com/post/75150059974/pytn-profiles-brian-dailey-and-adafruit) for
-PyTennnessee and I ran into research that would appear to be relevent.
+[PyTennnessee](http://pytennessee.org) and I ran into research that would appear to be relevent.
 
 Ulrike Malmendier and Geoffrey Tate wrote a paper titled [
-Superstar CEOs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=972725).
+Superstar CEOs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=972725). The following quote
+was included in [Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0374533555&linkCode=as2&tag=rea036-20).
 
 > "We find that firms with award-winning CEOs subsequently underperform, in
 > terms both of stock and operating performance. At the same time, CEO
