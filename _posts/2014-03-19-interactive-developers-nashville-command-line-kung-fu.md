@@ -11,10 +11,16 @@ Nashville](http://www.meetup.com/interactivedev/events/135589052/) group in Bren
 philosophy of modularity and how the various tools complement one another to do
 powerful things.
 
+This is a talk I've actually given [a couple](http://realm3.com/articles/nyphp_presentation_-_become_a_bash_ninja)
+of times [http://realm3.com/articles/command_line_kung_fu_at_ruby_on_rails_october_meeting](before) with
+some variations.
+
+<center>
 ![CLI Kung
 Fu](http://dailytechnology.net/assets/themes/dailytechnology/img/meetup_cli_talk.jpg)
 <br/>
 <small>Photo by Matthew Wallace</small>
+</center>
 
 I appreciate ID hosting me for the evening, and I hope it was useful to the
 attendees! Thanks to all of those that were able to make it, and thanks to my
