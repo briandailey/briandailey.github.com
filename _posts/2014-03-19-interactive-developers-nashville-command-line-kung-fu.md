@@ -15,12 +15,10 @@ This is a talk I've actually given [a couple](http://realm3.com/articles/nyphp_p
 of times [http://realm3.com/articles/command_line_kung_fu_at_ruby_on_rails_october_meeting](before) with
 some variations.
 
-<center>
-![CLI Kung
-Fu](http://dailytechnology.net/assets/themes/dailytechnology/img/meetup_cli_talk.jpg)
+<div class="pull-right span4">
 <br/>
 <small>Photo by Matthew Wallace</small>
-</center>
+</div>
 
 I appreciate ID hosting me for the evening, and I hope it was useful to the
 attendees! Thanks to all of those that were able to make it, and thanks to my
