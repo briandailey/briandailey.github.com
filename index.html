@@ -6,7 +6,7 @@ tagline:
 {% include JB/setup %}
 <div class="well">Hi! My name is Brian and I am a web developer working in Nashville. <a href="/about.html">Find out more?</a></div>
 
-{% for page in site.posts %}
+{% for page in site.posts limit: 5 %}
 <div class="row-fluid post-full">
   <div class="span12">
       <h3> <a href="{{ page.url }}">{{ page.title }}</a> {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h3>

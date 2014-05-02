@@ -17,9 +17,9 @@ powerful things.
 <small>Photo by Matthew Wallace</small>
 </div>
 
-This is a talk I've actually given a [few](http://realm3.com/articles/nyphp_presentation_-_become_a_bash_ninja)
+This is a talk I've actually given a [few]({% post_url 2009-04-25-nyphp-presentation-become-a-bash-ninja %})
 [times](http://www.slideshare.net/brian_dailey/devchatt-2010-nix-cmd-line-kung-foo)
-[before](http://realm3.com/articles/command_line_kung_fu_at_ruby_on_rails_october_meeting) with
+[before]({% post_url 2009-10-23-command-line-kung-fu-at-ruby-on-rails-october-meeting %}) with
 some variations.
 
 I appreciate ID hosting me for the evening, and I hope it was useful to the
