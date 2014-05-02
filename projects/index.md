@@ -13,20 +13,20 @@ best fit the job at hand.
 
 <p class="lead">A few highlights along the way...</p>
 
-### 2001-2004
+#### 2001-2004
 
 Added new features and maintained a Java-based EMR system for [dermatopathology labs](http://www.hypercharts.com/hyperpath.net/)
  as well as a similar EMR for [general practices](http://hypercharts.com/). At
  the time, EMR systems were still in infancy, but the project is still (as far
  as I know) in active use.
 
-### 2004-2005
+#### 2004-2005
 
 While consulting under the business name Daitech I built several PHP-based
 applications. One of which was a PHP-based tracking system for appraisal
 companies that is still in use.
 
-### 2005-2006
+#### 2005-2006
 
 Built a vendor referral system for [durable medical equipment
 companies](http://en.wikipedia.org/wiki/Durable_medical_equipment) from the
@@ -38,7 +38,7 @@ about Medicare (for example, "How much must a patient weigh to qualify for a
 heavy duty wheel chair?"). The engine driving the knowledge based was a
 technology licensed from Oak Ridge National Laboraties.
 
-### 2006-2010
+#### 2006-2010
 
 While freelancing in New York under the business name Realm3, I was able to
 fair number of very interesting projects. In nearly all projects, I was the
@@ -59,9 +59,16 @@ Other projects included a tracking system for environmental compliance at
 pharmaceutical companies, and a platform that performed financial analysis
 and comparisons for 529 Plans.
 
-### 2010- 2014
+#### 2010-2014
 
 While working as a consultant, I built the first iteration of a healthcare
 market research platform that eventually became Stratasan. I served as CTO,
-growing the applications features and adopting new technologies (such as Amazn
+growing the applications features and adopting new technologies (such as Amazon
 Redshift) over time.
+
+------
+
+As I continue to work in the industry, I'm always looking forward to new
+projects to make lives better. If you think you've got a project that I might
+be interested in, hit me up! My contact information is on the
+[about](/about.html) page.
