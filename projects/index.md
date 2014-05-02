@@ -11,6 +11,8 @@ one - from Java to PHP to Ruby to Python. I generally spend most of my time on
 the back end, with an eye towards building familiarity with whatever tool might
 best fit the job at hand.
 
+You can, of course, find some of my work on [GitHub](http://github.com/briandailey).
+
 <p class="lead">A few highlights along the way...</p>
 
 ### 2001-2004
