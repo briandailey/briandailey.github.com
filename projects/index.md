@@ -38,7 +38,8 @@ While at the same company, I helped build a Java-based front end for a
 Medicare-rules system that allowed users to ask natural-language questions
 about Medicare (for example, "How much must a patient weigh to qualify for a
 heavy duty wheel chair?"). The engine driving the knowledge based was a
-technology licensed from Oak Ridge National Laboraties.
+technology licensed from Oak Ridge National Laboratories.
+
 
 ### 2006-2010
 
@@ -63,7 +64,7 @@ and comparisons for 529 Plans.
 
 ### 2010- 2014
 
-While working as a consultant, I built the first iteration of a healthcare
+While working as a consultant, I built the first iteration of a health-care
 market research platform that eventually became Stratasan. I served as CTO,
-growing the applications features and adopting new technologies (such as Amazn
+growing the applications features and adopting new technologies (such as Amazon
 Redshift) over time.
