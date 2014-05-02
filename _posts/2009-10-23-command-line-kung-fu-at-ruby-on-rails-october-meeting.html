@@ -1,0 +1,52 @@
+---
+layout: post
+title: Command Line Kung Fu at Ruby on Rails October Meeting
+category: Talks
+tags: [talks,shell,rails,php]
+---
+<p>A lot of the material I went over was from the NYPHP presentation that I gave earlier this year, but I did spend a little more time on functionality specific to the bash prompt.</p>
+
+<p>A couple of the things that seemed to generate the most enthusiasm:</p>
+
+<ul>
+    <li>Using "cd -" to toggle between the most recently viewed directories.</li>
+    <li>The use of GNU screen.</li>
+    <li>Using aliases, especially for aliasing mysql --safe-updates</li>
+</ul>
+
+<div style="margin: 0 10px 10px 0; float: left;">
+    <a href="http://www.flickr.com/photos/kungfoofool/4037364700/"><img src="http://farm3.static.flickr.com/2685/4037364700_bb3ce72afd_m.jpg" border="0" /></a>
+</div>
+
+<p>Some of the attendees had their own useful suggestions. Daniel Nelson pointed out that Ctrl+N and Ctrl+P is faster than using arrow keys to navigate through your command history. He also pointed out that you could pass command output into arguments using parenthesis. For example:</p>
+
+{% highlight sh %}
+diff <(ls -l) <(ls ../ -l)
+{% endhighlight %}
+
+<p>That's pretty slick if you ask me!</p>
+
+<p>A lot of PHP guys showed up, so there was some interest in a small function I wrote to parse out information from the php.net information pages. Here it is in it's full glory:</p>
+
+{% highlight sh %}
+phpargs() {
+    curl -s http://us3.php.net/$1 | \
+        sed -n '/<div class="methodsynopsis dc-description">/,/<\/div>/p' | \
+        sed 's/<[^>]*>//g' | tr -d "\n"
+    echo
+}
+{% endhighlight %}
+<p>It's pretty basic, but if you add this to your bash profile you can run it by passing a function name.</p>
+
+{% highlight sh %}
+phpargs strpos
+int strpos    ( string $haystack   , mixed $needle   [, int $offset = 0  ] )
+{% endhighlight %}
+</pre>
+
+<p>Again, if you're reading this and you're not checking out your local user groups, then I encourage you to do so! Even smaller cities often have user groups and they are a valuable place to both learn things and share what you know.</p>
+
+<h3>Related Links</h3>
+<ul>
+    <li><a href="http://www.meetup.com/nashvilleruby/">Nashville Ruby on Rails Meetup</a></li>
+</ul>

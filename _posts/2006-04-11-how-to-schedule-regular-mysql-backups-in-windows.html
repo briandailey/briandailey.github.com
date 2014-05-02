@@ -1,0 +1,50 @@
+---
+layout: post
+title: How To Schedule Regular MySQL Backups In Windows
+category: Tutorial
+tags: [mysql,windows,backup]
+---
+<p>Many web developers depend on that holy trifecta of PHP, MySQL, and Apache to develop their applications. Occasionally we are forced, whether due to work or convenience sake, to use Windows to host our applications. Some of us are already familiar with Linux cron jobs and shell commands (or maybe not) but scheduling backups in Windows is completely unknown to us.</p>
+
+<h3>Some Initial Assumptions</h3>
+<p>Here's the information you'll need to know before attempting to duplicate what I've done...</p>
+<ul>
+    <li>The path to your mysql /bin/ directory (e.g., C:\mysql\).</li>
+    <li>Actually... that's it.... Easy, huh?</li>
+</ul>
+<h3>What We're Doing: In Summary</h3>
+<p>We want to dump the file to a datestamped file. There are several ways to do this, but the easiest way is through a batch file. The command we'll be using is:</p>
+
+{% highlight bat %}
+\path-to-mysql\bin\mysqldump -u [user] -p[password] --result-file="\path\to\backup.%DATE:~0,3%.sql" [database]
+{% endhighlight %}
+
+<p>Just fill in the username, password, and database with your MySQL information.</p>
+
+<h3>What Just Happened?</h3>
+<p>You've dumped all of your MySQL data in <span class="note">[database]</span> into a file named backup.Mon.sql (assuming it's Monday). The <span class="note">%DATE:~0,3%</span> string basically runs the DOS "date" command and parses out the first three characters. If you'd rather see YYYYMMDD format, use <span class="note">%DATE:~10,4%%DATE:~7,2%%DATE:~4,2%</span>. The advantage (or disadvantage, depending on your needs) of using the week day is that you will eventually have only seven backup files... you can go back, at most, seven days. Eventually each day will be overwritten. Using YYYYMMDD will allow you to create an unlimited amount of backup files, and go back and recover to any date you'd like.</p>
+<p>Take this command, and create a backup file (e.g., mysql-backup.bat). It can look like this...</p>
+{% highlight bat %}
+@echo off
+echo Running dump...
+c:\path-to-mysql\bin\mysqldump -u[user] -p[password] --result-file="c:\path\backup.%DATE:~0,3%.sql" [database]
+echo Done!
+{% endhighlight %}
+
+<p>Now you can run mysql-backup.bat from a command prompt (hit Start-&gt;Run and type 'cmd'). It it works, you should see a success message and a file should be generated in the directory you specified. If not, make sure you've got the correct username, password, and database. Then try it again.</p>
+
+<h3>Automating It All</h3>
+
+<p>Linux has cron, Windows has <span class="note">at</span>. The at command schedules commands to run as often as you'd like. In this case, we're going to run the backup one day a week at 2 AM.</p>
+
+<p>Open up the command prompt and type the following:</p>
+
+{% highlight bat %}
+at 02:00 /every:M,T,W,Th,F,S,Su c:\path\mysql-backup.bat
+{% endhighlight %}
+
+<p>Once you run this, it should return "Added a new job with job ID = X"</p>
+<p>Type <span class="note">at</span> to make sure that it's in the schedule.</p>
+
+<h3>Congratulations!</h3>
+<p>That's all you need to do! If you've set everything up correctly you should now be running nightly MySQL backups.</p>
