@@ -89,3 +89,16 @@ The timing of the order coincides with the [National Day of Civic
 Hacking](http://hackforchange.org/) and it's local branch, [Hack For Change
 Nashville](http://hack4changenash.org/). I definitely look forward to seeing
 what local developers do with this data!
+
+What data sets do you find most interesting? What questions do you think
+this data might answer? Leave a comment or get in touch with me on Twitter
+at [@byeliad](http://twitter.com/byeliad).
+
+### Resources
+
+- [List of Open Data with Metadata](http://www.nashville.gov/Government/Open-Data.aspx)
+- [Executive Order #43](http://www.nashville.gov/Metro-Clerk/Legal-Resources/Executive-Orders/Mayor-Karl-Dean/kd043.aspx)
+- [Data Hosted on Socrata](https://data.nashville.gov/)
+- [Socrata API Documentations](http://dev.socrata.com/)
+- [Press Release: Mayor Signs Executive Order to Publish Open Data](http://www.nashville.gov/News-Media/News-Article/ID/2837/Mayor-Signs-Executive-Order-to-Publish-Open-Data.aspx)
+- [Hack for Change Nashville](http://hack4changenash.org/)
