@@ -39,7 +39,7 @@ analyze Open Data in new and innovative ways.
 - Adopt standards that improve transparency, access to Open Data, and improved
 coordination and efficiencies across Metropolitan Government departments.
 
-This addresses the two isssues mentioned above. It's difficult to be precise
+This addresses the two issues mentioned above. It's difficult to be precise
 about what the adopted "standards" will be, but I assume it means that each
 data set should have a clearly defined process for pushing it to Socrata.
 
