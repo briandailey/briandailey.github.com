@@ -67,10 +67,10 @@ with a for-profit company has it's upside in long-term viability.
 Socrata platform's wide adoption makes it an overall good choice, in my opinion.
 It's [well-documented](http://dev.socrata.com/), for starters.
 
-### The Bad
+### The Not-So-Great
 
 I'm not terribly pleased with the list of exempted departments. It's a rather
-long list.
+long list with some fairly large departments:
 
 > Board of Education/Metropolitan Nashville Public Schools, Nashville Electric
 > Service, Metropolitan Nashville Airport Authority, Metropolitan Development
