@@ -11,6 +11,8 @@ one - from Java to PHP to Ruby to Python. I generally spend most of my time on
 the back end, with an eye towards building familiarity with whatever tool might
 best fit the job at hand.
 
+You can, of course, find some of my work on [GitHub](http://github.com/briandailey).
+
 <p class="lead">A few highlights along the way...</p>
 
 #### 2001-2004
@@ -36,7 +38,8 @@ While at the same company, I helped build a Java-based front end for a
 Medicare-rules system that allowed users to ask natural-language questions
 about Medicare (for example, "How much must a patient weigh to qualify for a
 heavy duty wheel chair?"). The engine driving the knowledge based was a
-technology licensed from Oak Ridge National Laboraties.
+technology licensed from Oak Ridge National Laboratories.
+
 
 #### 2006-2010
 
@@ -61,7 +64,7 @@ and comparisons for 529 Plans.
 
 #### 2010-2014
 
-While working as a consultant, I built the first iteration of a healthcare
+While working as a consultant, I built the first iteration of a health-care
 market research platform that eventually became Stratasan. I served as CTO,
 growing the applications features and adopting new technologies (such as Amazon
 Redshift) over time.
