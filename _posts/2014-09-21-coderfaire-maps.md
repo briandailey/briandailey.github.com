@@ -5,8 +5,6 @@ category: nashville
 tags: [nashville, speaking, mapping, javascript]
 ---
 
-<div class="pull-right"><img src="/img/coderfaire-2014-250.jpg" /></div>
-
 Huge kudos to Cal & Kathy Evans as well as Jacques Woodcock for organizing the
 third year of CoderFaire, a language-agnostic conference that pulls all kinds of
 regional talent out of the woodwork.
