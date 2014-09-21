@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Let's Build A Map! (CoderFaire 2014)"
-category: nashville
+category: speaking
 tags: [nashville, speaking, mapping, javascript]
 ---
 
@@ -16,6 +16,8 @@ significantly since then.
 * [Slides](http://dailytechnology.net/2014-coderfaire-maps/)
     * Press 's' when opening them up to see speaker notes.
 * [Source Code](https://github.com/briandailey/2014-coderfaire-maps/)
+* [Example Leaflet Sample Map](http://dailytechnology.net/2014-coderfaire-maps/examples/leaflet.html)
+* [Example D3 Sample Map](http://dailytechnology.net/2014-coderfaire-maps/examples/d3.html)
 * Other Resources
     * [Nashville Building Permits](https://data.nashville.gov/Development-and-Housing/Building-Permits/3h5w-q8b7)
     * [ogr2ogr cheatsheet](http://www.bostongis.com/printerfriendly.aspx?content_name=ogr_cheatsheet)
