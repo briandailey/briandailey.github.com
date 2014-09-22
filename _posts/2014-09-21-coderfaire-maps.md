@@ -9,6 +9,11 @@ Huge kudos to Cal & Kathy Evans as well as Jacques Woodcock for organizing the
 third year of CoderFaire, a language-agnostic conference that pulls all kinds of
 regional talent out of the woodwork.
 
+<div class="pull-right text-center" style="margin: 5px;"><img class="img-rounded" src="/img/coderfaire-2014.jpg" alt="Coderfaire 2014" />
+<br/>
+<small class="text-muted">Credit: <a href="http://jasonmyers.com">Jason Myers</a></small>
+</div>
+
 I was happy to give a short talk on mapping geospatial data for the web. I gave
 a similar talk at Barcamp two years ago, and the tools available have changed
 significantly since then.
