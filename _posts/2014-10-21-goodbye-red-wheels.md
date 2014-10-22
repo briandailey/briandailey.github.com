@@ -49,7 +49,7 @@ She waved me on.
 
 My brother in the back-seat nearly died laughing as soon as we pulled away. He couldn't decide if I was stupid or just trolling her.
 
-One thing about this car that was great is that it was so basic. There was no power steering, no power windows, and a stick shift. There simply wasn't much that could go wrong with this car. Of course, that had a downside, too. If I left my lights on, it didn't beep to remind me to turn them off. So leave them on I did. I've been jumped off by nearly every co-worker, policeman, state troopers, National Park foresters, and random people in parking lots all over the country.
+One thing about this car that was great is that it was so basic. There was no power steering, no power windows, and a stick shift. There simply wasn't much that could go wrong with this car. Of course, that had a downside, too. If I left my lights on, it didn't beep to remind me to turn them off. So leave them on I did. I've been jumped off by nearly all of my co-workers, police, state troopers, National Park foresters, and random people in parking lots all over the country.
 
 <a href="http://daileyleaf.com/wp-content/uploads/2014/10/Picture-059-e1413943075151.jpg"><img src="http://daileyleaf.com/wp-content/uploads/2014/10/Picture-059-e1413943075151.jpg" alt="Since Brian left the headlights on, we need assistance." width="500" height="375" class="alignnone size-full wp-image-734" /></a>
 
