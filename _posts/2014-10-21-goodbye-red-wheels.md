@@ -61,6 +61,6 @@ Living in Queens, I had to move it several times a week for street sweeping. The
 
 <a href="http://daileyleaf.com/wp-content/uploads/2014/10/CSC_0117-e1413943251212.jpg"><img src="http://daileyleaf.com/wp-content/uploads/2014/10/CSC_0117-e1413943251212.jpg" alt="CSC_0117" width="499" height="332" class="alignnone size-full wp-image-738" /></a>
 
-NYC was hard on it. People stole my license plates, tore off the window rain guards, bumped into it parallel parking, and generally destroyed it's exterior. Despite how rough it looks, though, the car never left me down. I used to be terrified it would quit on me in the shoulder-less canyons of the Brooklyn-Queens Expressway, but it never did.
+NYC was hard on it. People stole my license plates, tore off the window rain guards, bumped into it parallel parking, and generally wreaked destruction on its exterior. Despite how rough it looks, though, the car never left me down. I used to be terrified it would quit on me in the shoulder-less canyons of the Brooklyn-Queens Expressway, but it never did.
 
 Goodbye, red wheels! You've served us well.
