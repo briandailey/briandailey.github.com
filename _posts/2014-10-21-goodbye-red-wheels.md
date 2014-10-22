@@ -23,7 +23,7 @@ Within two weeks of owning it, I parked it in my driveway without engaging the e
 
 <a href="http://daileyleaf.com/wp-content/uploads/2014/10/IMG_4947_small.jpg"><img src="http://daileyleaf.com/wp-content/uploads/2014/10/IMG_4947_small.jpg" alt="IMG_4947_small" width="500" height="316" class="alignnone size-full wp-image-737" /></a>
 
-I slapped my "Geek Patrol" magnetic signs on it and drove it to freelance consulting gigs all over the place. Since it was an economical vehicle, we drove it all over the place. When we visited NYC in 2006 with my brother and my cousin, the four of us squeezed into it for the 14 hour overnight drive.
+I slapped my "Geek Patrol" magnetic signs on it and drove it to freelance consulting gigs all over east Tennessee. Since it was an economical vehicle, we drove it all over the Southeast, visiting cities up and down the coast. When we visited NYC in 2006 with my brother and my cousin, the four of us squeezed into it for the 14 hour overnight drive.
 
 When we first moved to NYC, we didn't take any vehicle with us. That lasted less than a year. I flew back, drove the Honda to NYC, and became one of the car-driving elite. We would bundle into the car with friends, go hiking in New Jersey or skiing in Pennsylvania or Vermont, and be back by Monday.
 
