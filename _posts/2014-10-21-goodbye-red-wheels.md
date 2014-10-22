@@ -30,13 +30,21 @@ When we first moved to NYC, we didn't take any vehicle with us. That lasted less
 On one of these trips to the Catskills, I was pulled over at a checkpoint. The nice police lady asked me where I was headed.
 
 "That way." I pointed ahead.
+
 "And where are you traveling from?"
+
 "That way." I pointed behind me.
+
 "Have you had anything to drink?"
+
 "Yep, we just ate a huge meal after a hike."
+
 "What did you drink?"
+
 "Water."
+
 "... You learned that in Tennessee didn't you." (I still had Tennessee plates at this point.)
+
 She waved me on.
 
 My brother in the back-seat nearly died laughing as soon as we pulled away. He couldn't decide if I was stupid or just trolling her.
