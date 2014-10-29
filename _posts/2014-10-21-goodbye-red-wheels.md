@@ -66,3 +66,5 @@ Living in Queens, I had to move it several times a week for street sweeping. The
 NYC was hard on it. People stole my license plates, tore off the window rain guards, bumped into it parallel parking, and generally wreaked destruction on its exterior. Despite how rough it looks, though, the car never left me down. I used to be terrified it would quit on me in the shoulder-less canyons of the Brooklyn-Queens Expressway, but it never did.
 
 Goodbye, red wheels! You've served us well.
+
+__Update (10/29):__ Sold the car last night for $1000 less than I bought it for 10 years ago. It's hard to beat $100 a year or 1.3¢ per mile!
