@@ -73,11 +73,14 @@ vessels to [improve flow]." It allows that blood, and the important oxygen and
 food that it delivers, to "penetrate deeper and deeper into the tissues of the
 body" [and brain].
 
-There are several other ways that exercise improves cognition but I simply don't
-have time to cover them all (not to mention the book does a much better job).
+Medina covers several other ways that exercise improves cognitive ability, too.
 
 > "The benefits of exercise seem nearly endless because its impact is
 > systemwide, affecting most physiological systems." _(Medina)_
+
+Ultimately, I run because I know it's good for my brain and my body.
+Penultimately, I work with a crew of really smart folks and if I ever hope to be
+able to keep up with them I have to keep running to stay sharp.
 
 > "Exercisers outperform couch potatoes in tests that measure long-term memory,
 > reasoning, attention, and problem solving skill." _(Medina)_
@@ -85,9 +88,6 @@ have time to cover them all (not to mention the book does a much better job).
 According to Medina, the gold standard for exercise ROI is 30 minutes of aerobic
 exercise two or three times a week. That doesn't seem like a big ask to me.
 
-Ultimately, I run because I know it's good for my brain and my body.
-Penultimately, I work with a crew of really smart folks and if I ever hope to be
-able to keep up with them I have to keep running to stay sharp.
 
 *Rule 2: Sleep well, think well.*
 
@@ -105,11 +105,9 @@ during the REM cycle they do not perform as well. It hampers their cognitive abi
 
 Medina spends a lot of time going over the battle between the circadian arousal
 system (the process that wakes you up) and the homeostatic sleep drive (the
-process that tells your body it needs to rest) which I don't have time to dive
-into with detail.
-
-However, it is important to note that most reach a stalemate in this battle in
-the mid-afternoon. This leads to the afternoon dip that most of us experienced.
+process that tells your body it needs to rest).  It is important to note that
+most brains reach a stalemate in this battle in the mid-afternoon.
+This leads to the afternoon dip that most of us experienced.
 There are studies that have shown that a short twenty minute nap during the
 afternoon measurably improves cognitive ability in the remainder of
 the day. Medina points out that if you're a speaker, avoid the mid-afternoon. It's
