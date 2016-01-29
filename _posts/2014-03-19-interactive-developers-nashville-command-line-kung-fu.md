@@ -3,7 +3,7 @@ layout: post
 title: "Interactive Developers Nashville: Command Line Kung Fu"
 description: ""
 category: Speaking
-tags: [unix,programming,softare,development]
+tags: [unix,programming,software,development]
 ---
 
 Last night I presented ["Command Line Kung Fu" to the Interactive Developers of
