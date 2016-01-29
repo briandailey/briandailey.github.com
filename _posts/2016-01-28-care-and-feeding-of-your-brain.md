@@ -39,8 +39,8 @@ meant to move. We hunted, farmed, and ran from predators since the beginning of
 time. As software developers we hunt bugs, farm unit tests, and the only thing I
 run from is our CEO when he asks for next year's conference sponsorship budget.
 
-> "There is no greater anti-brain environment than the classroom and cubicle." -
-> Dr. John Medina
+> "There is no greater anti-brain environment than the classroom and cubicle."
+> _(Medina)_
 
 Fundamentally, exercise improves cognition by improving blood flow in our
 brains. Blood flow is connected to gathering oxygen. Getting that oxygen to our
@@ -77,10 +77,10 @@ There are several other ways that exercise improves cognition but I simply don't
 have time to cover them all (not to mention the book does a much better job).
 
 > "The benefits of exercise seem nearly endless because its impact is
-> systemwide, affecting most physiological systems."
+> systemwide, affecting most physiological systems." _(Medina)_
 
 > "Exercisers outperform couch potatoes in tests that measure long-term memory,
-> reasoning, attention, and problem solving skill."
+> reasoning, attention, and problem solving skill." _(Medina)_
 
 According to Medina, the gold standard for exercise ROI is 30 minutes of aerobic
 exercise two or three times a week. That doesn't seem like a big ask to me.
