@@ -5,7 +5,6 @@ description: ""
 category: development
 tags: [pytennessee,python,development,programming]
 ---
-<div class="pull-right img"><img src="/img/2016-keynote-250.jpg"></div>
 I was invited to give the closing keynote at PyTennessee 2016. Jason Myers,
 Denise Myers, Will Golden, and the crew of volunteers continue to do an amazing
 job putting on this conference. I'm grateful for all the work that Jason, in
@@ -13,6 +12,7 @@ particular, puts into this conference. I got front-row seats during his work on
 the first conference, so I got to see how much work is involved in making a
 regional conference happen. It's a herculean effort.
 
+<div class="pull-right img"><img src="/img/2016-keynote-250.jpg"></div>
 I owe a huge thanks to Jason Myers for giving me the opportunity to speak. I owe
 another thank you to all of the folks who stuck around for my talk - it was, after
 all, the final talk of a long weekend and it bumped up right against the Super
