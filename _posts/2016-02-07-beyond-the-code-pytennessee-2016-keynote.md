@@ -12,7 +12,7 @@ particular, puts into this conference. I got front-row seats during his work on
 the first conference, so I got to see how much work is involved in making a
 regional conference happen. It's a herculean effort.
 
-<div class="pull-right img"><img src="/img/2016-keynote-250.jpg"><small>Image credit: <a href="https://twitter.com/egdelwonk/status/696479086093459456">Will Golden</small></div>
+<div class="pull-right img"><img src="/img/2016-keynote-250.jpg"><small>Image credit: <a href="https://twitter.com/egdelwonk/status/696479086093459456">Will Golden</a></small></div>
 I owe a huge thanks to Jason Myers for giving me the opportunity to speak. I owe
 another thank you to all of the folks who stuck around for my talk - it was, after
 all, the final talk of a long weekend and it bumped up right against the Super

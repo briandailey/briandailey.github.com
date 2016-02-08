@@ -2,7 +2,7 @@
 layout: post
 title: "Software Development Is More Than Coding"
 description: ""
-category: software
+category: development
 tags: [software development]
 ---
 "What language should I focus my efforts on?" It's one of the most common

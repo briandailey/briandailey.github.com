@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Care and Feeding of Your Brain"
-description: ""
 category: development
 tags: [development,programming,brains,braaains]
 ---
