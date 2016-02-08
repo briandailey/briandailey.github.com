@@ -19,6 +19,10 @@ another thank you to all of the folks who stuck around for my talk - it was, aft
 all, the final talk of a long weekend and it bumped up right against the Super
 Bowl.
 
+The video is available on [YouTube](https://www.youtube.com/watch?v=wU-dEeMNvR8&feature=youtu.be)
+(thanks to Scott Burns for recording) but reading is much easier than watching my
+awkward presentation.
+
 Here is the text of my talk. I did not use any slides, other than rotating
 through some nice Impressionist art.
 
