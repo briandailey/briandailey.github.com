@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Beyond The Code: PyTennessee 2016 Keynote"
 description: ""
 category: Development
