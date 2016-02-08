@@ -5,6 +5,7 @@ description: ""
 category: development
 tags: [pytennessee,python,development,programming]
 ---
+<div class="pull-right img"><img src="/img/2016-keynote-250.jpg"></div>
 I was invited to give the closing keynote at PyTennessee 2016. Jason Myers,
 Denise Myers, Will Golden, and the crew of volunteers continue to do an amazing
 job putting on this conference. I'm grateful for all the work that Jason, in
