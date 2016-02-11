@@ -99,7 +99,7 @@ you for riding in the right-hand lane.
 
 This is actually my preferred route into downtown.
 
-How about heading back home? Alas, we're again faces with an entrance ramp.
+How about heading back home? Alas, we're again faced with an entrance ramp.
 
 ![Woodland Street Northbound](/img/2016-02-10-commuter-cycling-woodland-st-northbound.png)
 
