@@ -590,8 +590,9 @@ One of the experiences that stuck out for me in 2015 was visiting a high school
 in north Nashville to talk to a group of students interested in programming. I
 was joined by a panel of other developers. Most of the class was made up of
 Hispanic and African-American students. The panel was all white guys, save for
-one white woman. One of the students, a sixteen year old girl, was not afraid to
-name the elephant in the room:
+one white woman. (02/11 Edit: this is incorrect - I forgot, Marcus Whitney was on
+the panel so it _mostly_ white guys). One of the students, a sixteen year old girl,
+was not afraid to name the elephant in the room:
 
 "Looking at this panel full of white guys: do we even have a chance?"
 
