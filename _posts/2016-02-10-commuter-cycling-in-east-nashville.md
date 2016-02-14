@@ -204,6 +204,14 @@ attractive to casual cyclists. Here are some suggestions.
 * Educate motoricsts that cyclists can take up a full lane and are to use the
   road in generally the same manner as a vehicle.
 
+### Other Resources
+
+If you cycle to work, make sure to read [BicycleSafe.com](http://bicyclesafe.com/).
+You should be familiar with all of the common ways cyclists put themselves in
+danger and how to avoid them. I try to go back and read it at least once a year.
+
+### Your thoughts?
+
 If you cycle in this part of Nashville, I would love to hear your opinion. What
 do you feel can be done to improve the appeal of commuting to downtown via
 bicycle to the casual cyclist?
