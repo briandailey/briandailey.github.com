@@ -131,14 +131,14 @@ What are our other options, then? Let's take a look at Shelby Avenue.
 
 This corridor into downtown, which includes the Korean Veterans Bridge, has
 undergone a lot of changes in the past few years. There has been a bicycle lane
-donw Shelby for some time now, but it's a little spotty in that it cuts in and
+down Shelby for some time now, but it's a little spotty in that it cuts in and
 out and occasionally leaves you stranded on a fairly busy street.
 
 Still, there _is_ a bicycle lane and that's certainly an improvement.
 
 (Note the [Bcycle-ist](https://nashville.bcycle.com/) running against traffic
 patterns. This is something I see a lot of in Nashville - maybe the state
-has not done a great job of educating folks about walkingo on the left, riding
+has not done a great job of educating folks about walking on the left, riding
 on the right? It's terribly awkward to try to safely pass these folks and deal
 with traffic at the same time.)
 
@@ -161,7 +161,7 @@ within my comfort level as a casual cyclist commuter. However, it's not all
 *that* bad. It does have proper lanes, at least.
 
 If you're coming from the north side of town, however (Dickerson Pike or
-anywhere west of Gallatin Pike or Main StreeT) it is difficult to get to. You
+anywhere west of Gallatin Pike or Main Street) it is difficult to get to. You
 will need to come down 5th Street (where there is no bicycle lane) or try to
 cross on one of the smaller streets (e.g., 9th).
 
@@ -188,12 +188,12 @@ stress that I'm happy to add the additional time to get home.
 ### Conclusion
 
 One of my favorite things about living in Nashville's urban core is the ability
-to take alternative forms of transporation to work. One of the reasons many people
+to take alternative forms of transportation to work. One of the reasons many people
 choose to live in East Nashville is the proximity to the downtown area:
 encouraging new residents to embrace alternatives will make the city a better
 place to live by reducing traffic, pollution, and improve emotional and physical
 well-being. Planners would do well to continue making efforts to make it more
-attractive to casual cyclists. Here are some suggestings.
+attractive to casual cyclists. Here are some suggestions.
 
 * Provide better routes from the north side of town, particularly the Dickerson
   Pike corridor.
