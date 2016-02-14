@@ -14,8 +14,11 @@ attempt to explain why.
 
 ![Map of routes into Downtown](/img/2016-02-10-commuter-cycling-1-690px.png)
 
-These are all of the possible routes into downtown Nashville from the east side.
-Let's take them one by one.
+The above illustrates all of the possible routes into downtown Nashville from
+the east side. I did omit Crutcher Street, but it's so close to Davidson Street
+that I'm more or less lumping the two together.
+
+Let's take each of these options one by one, starting from the northernmost access.
 
 ### Spring Street
 
@@ -91,15 +94,19 @@ Let's see what Woodland Street holds in store.
 This street has no designated bike route. However, at first glance it looks like
 a really great route. Here's a shot looking towards downtown.
 
-![Woodland Street](/img/2016-02-10-commuter-cycling-main-street-2.png)
+![Woodland Street](/img/2016-02-10-commuter-cycling-woodland-st.png)
 
 On the southbound side you have no exit or entrance ramps. Sure, there are two
 lanes but otherwise this is pretty smooth sailing. No one is going to be mad at
-you for riding in the right-hand lane.
+you for riding in the right-hand lane. If you are coming south down Woodland
+Street and you cross 5th Street, there's a short length where cars behind you
+must be careful about passing while there is only one lane. Alas, they are not
+always careful, but one lane quickly becomes three, giving you plenty of room to
+stay to the right.
 
 This is actually my preferred route into downtown.
 
-How about heading back home? Alas, we're again faced with an entrance ramp.
+How about heading back home? Alas, we're again faced with another entrance ramp.
 
 ![Woodland Street Northbound](/img/2016-02-10-commuter-cycling-woodland-st-northbound.png)
 
@@ -111,11 +118,55 @@ down their windows, yell, swear, and generally act like imbeciles. I generally
 do not take this route as I do not like to deal with angry drivers. It is, I
 suspect, discouraging to anyone wishing to commute via bicycle.
 
-We have one route left.
+You can, of course, choose to ride on the sidewalk but you will need to be very
+careful about cars entering the interstate and turning onto Interstate Drive.
+Furthermore, there have been several studies that have shown that [riding on the
+sidewalk is nearly twice as dangerous as riding in the
+road](http://www.bicyclinglife.com/Library/riskfactors.htm). Therefore, I do not
+consider riding on the sidewalk here to be a viable option.
 
-### Shelby Street
+What are our other options, then? Let's take a look at Shelby Avenue.
 
-# TODO
+### Shelby Avenue
+
+This corridor into downtown, which includes the Korean Veterans Bridge, has
+undergone a lot of changes in the past few years. There has been a bicycle lane
+donw Shelby for some time now, but it's a little spotty in that it cuts in and
+out and occasionally leaves you stranded on a fairly busy street.
+
+Still, there _is_ a bicycle lane and that's certainly an improvement.
+
+(Note the [Bcycle-ist](https://nashville.bcycle.com/) running against traffic
+patterns. This is something I see a lot of in Nashville - maybe the state
+has not done a great job of educating folks about walkingo on the left, riding
+on the right? It's terribly awkward to try to safely pass these folks and deal
+with traffic at the same time.)
+
+![Shelby Avenue](/img/2016-02-10-commuter-cycling-shelby-avenue.png)
+
+This route is a little more intimidating coming from the other direction. The
+bike lane is there, but you have to really watch for folks moving to the left
+lane (another Interstate on-ramp). They are technically supposed to yield to
+cyclists, but they are not always great about doing so.
+
+Still, there is a bicycle lane, so one would expect that motorists would start
+to acclimate to seeing cyclists on the path.
+
+![Shelby Avenue Southbound](/img/2016-02-10-commuter-cycling-shelby-avenue-southbound.png)
+
+This route also experiences heavy traffic during rush hour (and heaven help you
+if you decide venture this route on a game day). There are six lanes of traffic to contend
+with, plus the on ramps and lane changes. It's not something I have found to be
+within my comfort level as a casual cyclist commuter. However, it's not all
+*that* bad. It does have proper lanes, at least.
+
+If you're coming from the north side of town, however (Dickerson Pike or
+anywhere west of Gallatin Pike or Main StreeT) it is difficult to get to. You
+will need to come down 5th Street (where there is no bicycle lane) or try to
+cross on one of the smaller streets (e.g., 9th).
+
+Last, let's look at one option that has no interstate entrance ramps at all,
+which makes it by far the least stressful option.
 
 ### Davidson Street
 
@@ -129,7 +180,30 @@ right](https://www.youtube.com/watch?v=QZJ9UwSN9jM&feature=youtu.be) when
 entering Davidson Street). There are also no ramps onto I-65. It's not beautiful
 (it runs through a metals trash dump) but that can hardly be a valid complaint.
 
-The only problem with this route is that if you need to travel up Main Street or
-Woodland Street (as I do) it is a rather out-of-the-way route.
+The only problem with this route is that if you need to travel in any direction
+north of Nashville (anywhere west of Woodland street) it is rather
+out-of-the-way. It adds two miles to my commute, but it's such a lower level of
+stress that I'm happy to add the additional time to get home.
 
+### Conclusion
 
+One of my favorite things about living in Nashville's urban core is the ability
+to take alternative forms of transporation to work. One of the reasons many people
+choose to live in East Nashville is the proximity to the downtown area:
+encouraging new residents to embrace alternatives will make the city a better
+place to live by reducing traffic, pollution, and improve emotional and physical
+well-being. Planners would do well to continue making efforts to make it more
+attractive to casual cyclists. Here are some suggestings.
+
+* Provide better routes from the north side of town, particularly the Dickerson
+  Pike corridor.
+* Make some concessions to pedestrians and cyclists on either Woodland or Main
+  Street in the form of buffered bike lanes, better sidewalk markings
+  (especially when crossing entrance and exit ramps) and minimizing lane shifts.
+* Educate cyclists that they are subject to the same rules as motorists.
+* Educate motoricsts that cyclists can take up a full lane and are to use the
+  road in generally the same manner as a vehicle.
+
+If you cycle in this part of Nashville, I would love to hear your opinion. What
+do you feel can be done to improve the appeal of commuting to downtown via
+bicycle to the casual cyclist?
