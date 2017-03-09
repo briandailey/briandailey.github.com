@@ -107,4 +107,4 @@ serialize('geojson', Foobar.objects.filter(name='Cookies'),
 
 This will output a nice GeoJSON document that is projected in WGS84, useful for
 showing on the web with a tool like Leaflet.js. Note that we did not need to
-even provide the `srid` parameter here.
+even provide the `srid` parameter here since it defaults to WGS84 (4326).
