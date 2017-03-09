@@ -2,7 +2,7 @@
 layout: post
 title: "Text Scaling Dell XPS 13 9350 and Ubuntu Gnome"
 description: ""
-category: 
+category: hardware
 tags: [linux,ubuntu]
 ---
 I recently bought a Dell XPS 13 9350 and installed Ubuntu Gnome 16.04. I bought the version with the FHD (1920x1080) screen resolution. While that's not exactly HiDPI, the text is rather small with the default installation.
