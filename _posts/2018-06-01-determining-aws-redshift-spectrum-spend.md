@@ -5,9 +5,10 @@ description: ""
 category: programming
 tags: [aws, redshift, spectrum]
 ---
-As far as I could tell, there's no way to see a breakdown of Amazon Web Services Redshift Spectrum usage for
-your most recent billing cycle. You can, however, pull this information from [`SVL_S3QUERY_SUMMARY`](https://docs.aws.amazon.com/redshift/latest/dg/r_SVL_S3QUERY_SUMMARY.html).
-
+I've enjoyed using [AWS Redshift Spectrum](https://aws.amazon.com/redshift/spectrum/) for quick-and-easy analysis of
+fairly large-ish data sets using one of my favorite tools: SQL. However, as far as I could tell, there's no way to see a
+breakdown of Amazon Web Services Redshift Spectrum usage for your most recent billing cycle. You can, however, pull this
+information from [`SVL_S3QUERY_SUMMARY`](https://docs.aws.amazon.com/redshift/latest/dg/r_SVL_S3QUERY_SUMMARY.html).
 
 Assuming that the pricing is still [$5 per terabyte](https://aws.amazon.com/redshift/pricing/#redshift-spectrum-pricing) scanned, you can run this query.
 
