@@ -13,7 +13,7 @@ I have been commuting to work by bicycle for several years now. I did it with an
 
 After a few years, I upgraded to a used road bike. I love the light weight, but I often would take the bus to work to avoid getting sweaty, or maybe I just wasn't feeling it that morning.
 
-I started seeing discussion threads about commuting on eBikes, and after seeing a few in the wild I decided to give it a try. My goals were:
+After seeing a couple of ebikes in the wild I decided to give one a try. My goals were:
 
 - Shave a few minutes off my commute.
 - Smooth out some of the hills between my house and work.
@@ -44,6 +44,8 @@ The 36 volt motor tops out at a little over 20 mph on a flat road. This profile 
 ![Riding hills](/img//2018-09-14-ebike-speed.png)
 
 You _definitely_ want to pedal along with the motor up hills. I haven't tried it, but I'm pretty sure that on some of the steeper hills you might even come to a dead stop if you quit pedaling. You have to think of the motor (particularly the 24 volt one!) as a friend giving you a nice push. (Unfortunately, your friend also adds a bit of weight!)
+
+I was a little concerned about having a front-wheel drive, but for the most part it hasn't really been noticeable. If I'm accelerating and turning in loose gravel, I have to be careful because it tends to spin. Other than that, I rarely notice that the front wheel is doing most of the work.
 
 ### Overall Take
 
