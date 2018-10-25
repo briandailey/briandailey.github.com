@@ -63,3 +63,4 @@ There's a bright future for ebikes - as more people discover them and they drop 
 
 ![My bike + kit](/img/2018-09-14-bike.png)
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OipNWAuuUQE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
