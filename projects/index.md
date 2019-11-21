@@ -15,31 +15,12 @@ You can, of course, find some of my work on [GitHub](http://github.com/briandail
 
 <p class="lead">A few highlights along the way...</p>
 
-#### 2001-2004
+#### 2010-20??
 
-Added new features and maintained a Java-based EMR system for [dermatopathology labs](http://www.hypercharts.com/hyperpath.net/)
- as well as a similar EMR for [general practices](http://hypercharts.com/). At
- the time, EMR systems were still in infancy, but the project is still (as far
- as I know) in active use.
-
-#### 2004-2005
-
-While consulting under the business name Daitech I built several PHP-based
-applications. One of which was a PHP-based tracking system for appraisal
-companies that is still in use.
-
-#### 2005-2006
-
-Built a vendor referral system for [durable medical equipment
-companies](http://en.wikipedia.org/wiki/Durable_medical_equipment) from the
-ground up. The system not only connected vendors with physicians, but it also
-facilitated the process of confirming that purchases were Medicare approved.
-While at the same company, I helped build a Java-based front end for a
-Medicare-rules system that allowed users to ask natural-language questions
-about Medicare (for example, "How much must a patient weigh to qualify for a
-heavy duty wheel chair?"). The engine driving the knowledge based was a
-technology licensed from Oak Ridge National Laboratories.
-
+I built the first iteration of a health-care market research platform that
+eventually became Stratasan's flagship product. I served as CTO, growing the
+applications features and adopting new technologies (such as Amazon Redshift)
+as well as building out product, engineering, and data analyst teams.
 
 #### 2006-2010
 
@@ -62,12 +43,37 @@ Other projects included a tracking system for environmental compliance at
 pharmaceutical companies, and a platform that performed financial analysis
 and comparisons for 529 Plans.
 
-#### 2010-20??
+#### 2005-2006
 
-I built the first iteration of a health-care market research platform that
-eventually became Stratasan's flagship product. I served as CTO, growing the
-applications features and adopting new technologies (such as Amazon Redshift)
-as well as building out product, engineering, and data analyst teams.
+Built a vendor referral system for [durable medical equipment
+companies](http://en.wikipedia.org/wiki/Durable_medical_equipment) from the
+ground up. The system not only connected vendors with physicians, but it also
+facilitated the process of confirming that purchases were Medicare approved.
+While at the same company, I helped build a Java-based front end for a
+Medicare-rules system that allowed users to ask natural-language questions
+about Medicare (for example, "How much must a patient weigh to qualify for a
+heavy duty wheel chair?"). The engine driving the knowledge based was a
+technology licensed from Oak Ridge National Laboratories.
+
+#### 2004-2005
+
+While consulting under the business name Daitech I built several PHP-based
+applications. One of which was a PHP-based tracking system for appraisal
+companies that is still in use.
+
+#### 2001-2004
+
+Added new features and maintained a Java-based EMR system for [dermatopathology labs](http://www.hypercharts.com/hyperpath.net/)
+as well as a similar EMR for [general practices](http://hypercharts.com/). At
+the time, EMR systems were still in infancy, but the project is still (as far
+as I know) in active use.
+
+
+### 1997-2001
+
+I cut my teeth on HTML, CSS, and Javascript by starting a website for home-
+schoolers. I moderated a bulletin board that culminated in many friendships
+and a few marriages (including my own!).
 
 ------
 
