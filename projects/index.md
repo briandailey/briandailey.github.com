@@ -62,12 +62,12 @@ Other projects included a tracking system for environmental compliance at
 pharmaceutical companies, and a platform that performed financial analysis
 and comparisons for 529 Plans.
 
-#### 2010-2014
+#### 2010-20??
 
-While working as a consultant, I built the first iteration of a health-care
-market research platform that eventually became Stratasan. I served as CTO,
-growing the applications features and adopting new technologies (such as Amazon
-Redshift) over time.
+I built the first iteration of a health-care market research platform that
+eventually became Stratasan's flagship product. I served as CTO, growing the
+applications features and adopting new technologies (such as Amazon Redshift)
+as well as building out product, engineering, and data analyst teams.
 
 ------
 
