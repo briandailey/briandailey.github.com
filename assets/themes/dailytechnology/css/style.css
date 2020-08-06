@@ -1,7 +1,15 @@
 /* Custom container */
+body {
+     background: rgb(151,244,135);
+     background: linear-gradient(90deg, rgba(151,244,135,1) 0%, rgba(163,190,240,1) 50%, rgba(249,194,236,1) 100%); 
+}
 .container-narrow {
   margin: 0 auto;
-  max-width: 700px; }
+  max-width: 700px;
+  border-radius: 3px;
+  background: #fff;
+  padding: 10px;
+}
 
 .container-narrow > hr {
   margin: 30px 0; }
