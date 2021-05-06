@@ -2,7 +2,7 @@
 layout: post
 title: "Cultivating a Culture of Partnership"
 description: ""
-category:
+category: Business
 tags: [business, culture]
 ---
 _This is cross-posted at the [Stratasan blog](https://blog.stratasan.com/founders-perspective-cultivating-a-culture-of-partnership)._
