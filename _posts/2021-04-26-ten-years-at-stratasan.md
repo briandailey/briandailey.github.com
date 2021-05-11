@@ -117,10 +117,9 @@ and strategies straight from the investors is critical. Companies are always
 chanting "alignment!" - and for good reasons! If you're a product company, you
 should put your product people in the same room with your business operations
 and domain experts. Why? Because product people are great at problem solving.
-And often, your investors will be most familiar with the problem at hand (that's
+Often your investors will be most familiar with the problem at hand (that's
 why they're willing to put up money and embrace the risk of backing a startup!).
-
-The less layers you have between your top technical leaders and the board, the
+The less layers you have between your top technical leadership and the board, the
 better.
 
 # What does the future hold?
