@@ -80,6 +80,15 @@ happens.
 
 Absolutely. But only with the exact same people.
 
+I have said this many times in person, but the two things that I've enjoyed the
+most about the whole ride are, in this order:
+
+1. The people I have gotten to work with.
+1. The problems I get to solve.
+
+There's a reason I still list "Problem Solving" as my job title on LinkedIn.
+It's what got me into software development, and why I'm still here.
+
 # Other Important Things
 
 ## Shared Values Are Paramount
