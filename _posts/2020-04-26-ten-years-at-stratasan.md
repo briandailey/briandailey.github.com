@@ -65,7 +65,8 @@ get to hand off some of those hats to folks who do that job well. Among the many
 hats I've worn (developer, security guy, IT support, compliance expert,
 reader-of-contracts...) product manager is one of the hardest. Being a product
 manager is a mess of vision casting, strategic planning, data analysis, and
-domain expertise.  Furthermore, is a company nexus that sits between sales, development, and the C-suite's future vision. It has tension with everyone because you have to
+domain expertise.  Furthermore, is a company nexus that sits between sales,
+development, and the C-suite's future vision. It has tension with everyone because you have to
 balance capacity with endless ideas. Someone has to be told "no." Not everyone
 takes it well.
 
@@ -82,6 +83,8 @@ Absolutely. But only with the exact same people.
 # Other Important Things
 
 ## Shared Values Are Paramount
+
+<div class="pull-right img text-center"><img src="/img/2021-04-26-jmo-brian-small.png" class="img-circle"><br/><small>Jason & Brian @ Stratasan's 8th Anniversary</small></div>
 
 Jason deserves most of the credit for Stratasan's success. What convinced me to
 work with Jason was not his winsome ways (although they are pretty winsome!). It
@@ -112,6 +115,8 @@ The less layers you have between your top technical leaders and the board, the
 better.
 
 # What does the future hold?
+
+<div class="pull-right img text-center"><img src="/img/2021-04-26-jmo-brian-2-small.png" class="img-circle"><br/><small>We're already a much larger group two years after this photo!</small></div>
 
 I wish I knew! When we started the company, I told Jason that I probably
 wouldn't stick around for very long. I assumed that by the time we hit six
