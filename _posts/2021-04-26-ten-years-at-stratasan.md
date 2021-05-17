@@ -10,7 +10,7 @@ In May of 2021, it will be ten years since we started Stratasan. Even though the
 Stratasan adventure is far from over, it seems as good a time as any to write up
 a retrospective.
 
-# Wait... what's a Stratasan?
+## Wait... what's a Stratasan?
 
 Stratasan is a company I co-founded with Jason Moore in 2011. [^1] We help
 healthcare companies (usually acute care hospitals) see what's going on in
@@ -20,7 +20,7 @@ collect healthcare data from facilities to report to various entities (e.g., a
 state Department of Health or a hospital association) and to use for
 business intelligence.
 
-# Was it what I expected?
+## Was it what I expected?
 
 Yes and no. When Jason asked if I would come on full time, I said two things: I
 saw it as a great opportunity to learn some new things, and I didn't figure
@@ -31,9 +31,9 @@ The former was accurate! The latter remains to be seen. We're at about
 seventy people now and I still feel like I'm contributing value. But, of
 course, I _would_ say that, wouldn't I?
 
-# What do you know how that you wish you'd known then?
+## What do you know how that you wish you'd known then?
 
-## Management is it's own discipline, worthy of study itself.
+#### Management is it's own discipline, worthy of study itself.
 
 In the beginning, I wrote a lot of code. Pretty quickly, I hired another
 engineer (the very capable Matt George) and worked alongside someone who was a
@@ -58,7 +58,7 @@ important than the ability to solve problems (a talent most developers have in
 spades!), have healthy and honest conversations, and communicate a vision that
 everyone can be excited about.
 
-## Product management is hard.
+#### Product management is hard.
 
 When you start a company, you wear _all_ of the hats. As you hire people, you
 get to hand off some of those hats to folks who do that job well. Among the many
@@ -76,7 +76,7 @@ is that the needs of the day are _constantly_ changing. The minute you think
 you've gotten the organizational structure in a sweet spot, something new
 happens.
 
-# Would you do it again?
+## Would you do it again?
 
 Absolutely. But only with the exact same people.
 
@@ -89,9 +89,9 @@ most about the whole ride are, in this order:
 There's a reason I still list "Problem Solving" as my job title on LinkedIn.
 It's what got me into software development, and why I'm still here.
 
-# Other Important Things
+## Other Important Things
 
-## Shared Values Are Paramount
+#### Shared values are paramount.
 
 <div class="pull-right img text-center"><img src="/img/2021-04-26-jmo-brian-small.png" class="img-circle"><br/><small>Jason & Brian @ Stratasan's 8th Anniversary</small></div>
 
@@ -106,15 +106,15 @@ was important that _his_ values align with the entire leadership team, including
 mine. Otherwise there will be irreconcilable differences in how we think about
 business.
 
-## Technical Leadership
+#### The leadership team will benefit from having technical expertise.
 
-Having a technical expert in leadership is important. Of course, I _would_ say
-that, wouldn't I?
+Having a technical expert in leadership is important. (Of course, I _would_ say
+that, wouldn't I?)
 
 Having someone with even a modicum of technical background in the same room as
 the board has been helpful for us. Being able to hear about concerns, trends,
 and strategies straight from the investors is critical. Companies are always
-chanting "alignment!" - and for good reasons! If you're a product company, you
+talking about organizational _alignment_ - and for good reasons! If you're a product company, you
 should put your product people in the same room with your business operations
 and domain experts. Why? Because product people are great at problem solving.
 Often your investors will be most familiar with the problem at hand (that's
