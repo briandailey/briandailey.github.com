@@ -10,7 +10,7 @@ In May of 2021, it will be ten years since we started Stratasan. Even though the
 Stratasan adventure is far from over, it seems as good a time as any to write up
 a retrospective.
 
-## Wait... what's a Stratasan?
+### Wait... what's a Stratasan?
 
 Stratasan is a company I co-founded with Jason Moore in 2011. [^1] We help
 healthcare companies (usually acute care hospitals) see what's going on in
@@ -20,7 +20,7 @@ collect healthcare data from facilities to report to various entities (e.g., a
 state Department of Health or a hospital association) and to use for
 business intelligence.
 
-## Was it what I expected?
+### Was it what I expected?
 
 Yes and no. When Jason asked if I would come on full time, I said two things: I
 saw it as a great opportunity to learn some new things, and I didn't figure
@@ -31,7 +31,7 @@ The former was accurate! The latter remains to be seen. We're at about
 seventy people now and I still feel like I'm contributing value. But, of
 course, I _would_ say that, wouldn't I?
 
-## What do you know how that you wish you'd known then?
+### What do you know how that you wish you'd known then?
 
 #### Management is it's own discipline, worthy of study itself.
 
@@ -89,7 +89,7 @@ most about the whole ride are, in this order:
 There's a reason I still list "Problem Solving" as my job title on LinkedIn.
 It's what got me into software development, and why I'm still here.
 
-## Other Important Things
+### Other Important Things
 
 #### Shared values are paramount.
 
@@ -106,7 +106,7 @@ was important that _his_ values align with the entire leadership team, including
 mine. Otherwise there will be irreconcilable differences in how we think about
 business.
 
-#### The leadership team will benefit from having technical expertise.
+#### The leadership team benefits from having technical and product expertise.
 
 Having a technical expert in leadership is important. (Of course, I _would_ say
 that, wouldn't I?)
@@ -117,12 +117,12 @@ and strategies straight from the investors is critical. Companies are always
 talking about organizational _alignment_ - and for good reasons! If you're a product company, you
 should put your product people in the same room with your business operations
 and domain experts. Why? Because product people are great at problem solving.
-Often your investors will be most familiar with the problem at hand (that's
+Often your investors will be most familiar with the business problems at hand (that's
 why they're willing to put up money and embrace the risk of backing a startup!).
-The less layers you have between your top technical leadership and the board, the
+The less layers you have between your top technical/product leadership and the board, the
 better.
 
-# What does the future hold?
+### What does the future hold?
 
 <div class="pull-right img text-center"><img src="/img/2021-04-26-jmo-brian-2-small.png" class="img-circle"><br/><small>We're already a much larger group two years after this photo!</small></div>
 
