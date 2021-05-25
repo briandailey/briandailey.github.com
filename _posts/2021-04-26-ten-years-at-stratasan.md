@@ -65,7 +65,7 @@ get to hand off some of those hats to folks who do that job well. Among the many
 hats I've worn (developer, security guy, IT support, compliance expert,
 reader-of-contracts...) product manager is one of the hardest. Being a product
 manager is a mess of vision casting, strategic planning, data analysis, and
-domain expertise.  Furthermore, is a company nexus that sits between sales,
+domain expertise.  Furthermore, it is a company nexus that sits between sales,
 development, and the C-suite's future vision. It has tension with everyone because you have to
 balance capacity with endless ideas. Someone has to be told "no." Not everyone
 takes it well.
