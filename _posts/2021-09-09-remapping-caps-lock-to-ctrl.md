@@ -18,9 +18,10 @@ surprise me.
 However, one other change on this layout was harder for me to adjust to.  In
 particular, there is no left "Ctrl" key. Instead, you will find it where you
 might normally find a Caps Lock key. This left me SHOUTING UNNECESSARILY when I
-was using a more standard keyboard layout.
+was using a more standard keyboard layout. I use the Ctrl key for navigating words,
+particularly on the command line, and I kept tripping up on this change.
 
-I try not to shout much on the internet, so Caps Lock isn't super useful for
+Since I try not to shout much on the internet, Caps Lock isn't super useful for
 me.[^1] It makes sense to remap it to something more useful, like the Control
 key, across all my keyboards. However, when I set out to do this I found that
 there is a ton of out-dated information floating around (registry hacks,
@@ -42,9 +43,6 @@ These tricks worked, at least, in September 2021.
 
 That covers all of the major operating systems. Happy keyboarding!
 
-[^1]: I tried the [colemak](https://colemak.com/) layout for a year or so and
-one of the things I liked about it was that it remapped Caps Lock to backspace.
-However, I found that my typing error rate never recovered so I eventually went
-back to Qwerty and continued to ignore the Caps Lock key.
+[^1]: I tried the [colemak](https://colemak.com/) layout for a year or so and one of the things I liked about it was that it remapped Caps Lock to backspace.  However, I found that my typing error rate never recovered so I eventually went back to Qwerty and continued to ignore the Caps Lock key.
 
 
