@@ -6,7 +6,7 @@ category: Programming
 tags: [keyboards, capslock]
 ---
 
-A colleague of mine recently sold me an HHKB (["Happy Hacking Keyboard"](https://hhkeyboard.us/)).
+My colleague [Barry Archer](https://www.linkedin.com/in/barry-archer-pmp-csm-886b9749/) recently sold me an HHKB (["Happy Hacking Keyboard"](https://hhkeyboard.us/)).
 It's a little different than most other keyboards I've used (and I'm a fan of
 either 60% of 75% layouts). For example, the Backspace key is below the number
 row, and the backslash key is in the number row. I found I was able to adjust to
