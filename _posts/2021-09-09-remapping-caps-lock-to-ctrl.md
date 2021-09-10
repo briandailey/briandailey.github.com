@@ -28,18 +28,18 @@ there is a ton of out-dated information floating around (registry hacks,
 anyone?). Hence, I hope it might be useful to see this in one place for others.
 These tricks worked, at least, in September 2021.
 
-* For Ubuntu Linux (20.04 or newer, but also probably older version as well),
+* For **Ubuntu Linux** (20.04 or newer, but also probably older version as well),
   install the Gnome tweaks tool. You can do this by opening a
   terminal and running `sudo apt install gnome-tweaks`. From there, open up
   "Gnome Tweaks" and simply navigate to the keyboard preferences panel. From
   there you can easily map Caps Lock to Ctrl.
-* For Mac OS, open up System Preferences and then "Keyboard." Click the
+* For **Mac OS**, open up System Preferences and then "Keyboard." Click the
   "Modifier Keys" button. From here you can remap Caps Lock to Control. Note
   that if you use an external (USB) keyboard you will need to remap this for
   each keyboard.
-* Microsoft Windows, use the [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/)
+* **Microsoft Windows**, use the [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/)
   utility. Once it's installed, open it and click "Keyboard Preferences." From
-  there you can remap Caps Lock to Ctrl.
+  there you can remap Caps Lock to Ctrl. This works on Windows 10 or Windows 11.
 
 That covers all of the major operating systems. Happy keyboarding!
 
