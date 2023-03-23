@@ -4,7 +4,16 @@ title: Hello.
 tagline: 
 ---
 {% include JB/setup %}
-<div class="well">Hi! My name is Brian and I am a web developer working in Nashville. <a href="/about.html">Find out more?</a></div>
+<div class="well">
+  <strong>Hi!</strong> I'm now blogging at <a href="https://dailey.page">dailey.page</a>. This domain is only around for historical purposes (to avoid linkrot). Thanks!
+  <br/>You'll be automatically redirected in a few seconds.
+  <script>
+    function redirectFunc() {
+      window.location.replace("https://dailey.page/");
+    }
+    setTimeout("redirectFunc()", 5000);
+  </script>
+</div>
 
 {% for page in site.posts limit: 5 %}
 <div class="row-fluid post-full">
